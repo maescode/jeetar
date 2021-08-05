@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1180c249.chunk.css",
+    "main.js": "/static/js/main.069cc435.chunk.js",
+    "main.js.map": "/static/js/main.069cc435.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.97565dae.js",
+    "runtime-main.js.map": "/static/js/runtime-main.97565dae.js.map",
+    "static/js/2.f8a2fcb7.chunk.js": "/static/js/2.f8a2fcb7.chunk.js",
+    "static/js/2.f8a2fcb7.chunk.js.map": "/static/js/2.f8a2fcb7.chunk.js.map",
+    "static/js/3.b8229ebb.chunk.js": "/static/js/3.b8229ebb.chunk.js",
+    "static/js/3.b8229ebb.chunk.js.map": "/static/js/3.b8229ebb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1180c249.chunk.css.map": "/static/css/main.1180c249.chunk.css.map",
+    "static/js/2.f8a2fcb7.chunk.js.LICENSE.txt": "/static/js/2.f8a2fcb7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Pusia-DemiBold.d10df2d0.ttf",
+    "static/media/cancel.04bbe546.svg": "/static/media/cancel.04bbe546.svg",
+    "static/media/continueRule.3cbb47ab.svg": "/static/media/continueRule.3cbb47ab.svg",
+    "static/media/facebook.dce26240.svg": "/static/media/facebook.dce26240.svg",
+    "static/media/google.5e4ac210.svg": "/static/media/google.5e4ac210.svg",
+    "static/media/logo.32276da0.svg": "/static/media/logo.32276da0.svg",
+    "static/media/textlogo.c1f13980.svg": "/static/media/textlogo.c1f13980.svg",
+    "static/media/user.6475b37a.svg": "/static/media/user.6475b37a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97565dae.js",
+    "static/js/2.f8a2fcb7.chunk.js",
+    "static/css/main.1180c249.chunk.css",
+    "static/js/main.069cc435.chunk.js"
+  ]
+}
