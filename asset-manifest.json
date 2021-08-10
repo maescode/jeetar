@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.85ba0c12.chunk.css",
-    "main.js": "/static/js/main.2d429c62.chunk.js",
-    "main.js.map": "/static/js/main.2d429c62.chunk.js.map",
+    "main.css": "/static/css/main.4623d8b7.chunk.css",
+    "main.js": "/static/js/main.fde9026c.chunk.js",
+    "main.js.map": "/static/js/main.fde9026c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9f7b5252.js",
     "runtime-main.js.map": "/static/js/runtime-main.9f7b5252.js.map",
     "static/js/2.f8a2fcb7.chunk.js": "/static/js/2.f8a2fcb7.chunk.js",
@@ -10,12 +10,12 @@
     "static/js/3.963a4232.chunk.js": "/static/js/3.963a4232.chunk.js",
     "static/js/3.963a4232.chunk.js.map": "/static/js/3.963a4232.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.85ba0c12.chunk.css.map": "/static/css/main.85ba0c12.chunk.css.map",
+    "static/css/main.4623d8b7.chunk.css.map": "/static/css/main.4623d8b7.chunk.css.map",
     "static/js/2.f8a2fcb7.chunk.js.LICENSE.txt": "/static/js/2.f8a2fcb7.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/Background-pattern.e8a7b99d.svg",
     "static/media/index.css": "/static/media/Pusia-DemiBold.d10df2d0.ttf",
     "static/media/Left illustration 1.94eb7133.svg": "/static/media/Left illustration 1.94eb7133.svg",
-    "static/media/Left illustration 2.2116d1da.svg": "/static/media/Left illustration 2.2116d1da.svg",
+    "static/media/Left illustration 2.7375085f.svg": "/static/media/Left illustration 2.7375085f.svg",
     "static/media/android.b5911d9b.svg": "/static/media/android.b5911d9b.svg",
     "static/media/appstore.2c57dab7.svg": "/static/media/appstore.2c57dab7.svg",
     "static/media/baked goods.2f0a2f72.svg": "/static/media/baked goods.2f0a2f72.svg",
@@ -24,6 +24,7 @@
     "static/media/continueRule.3cbb47ab.svg": "/static/media/continueRule.3cbb47ab.svg",
     "static/media/dairy and dell.3e87e57b.svg": "/static/media/dairy and dell.3e87e57b.svg",
     "static/media/facebook.dce26240.svg": "/static/media/facebook.dce26240.svg",
+    "static/media/favourite.960826b5.svg": "/static/media/favourite.960826b5.svg",
     "static/media/fit and form.52e30d8a.svg": "/static/media/fit and form.52e30d8a.svg",
     "static/media/food.313e2a3c.svg": "/static/media/food.313e2a3c.svg",
     "static/media/fruits.4b30a48c.svg": "/static/media/fruits.4b30a48c.svg",
@@ -40,6 +41,7 @@
     "static/media/personal care.904400cc.svg": "/static/media/personal care.904400cc.svg",
     "static/media/phone.49e2b7b8.png": "/static/media/phone.49e2b7b8.png",
     "static/media/place.afa52fcb.svg": "/static/media/place.afa52fcb.svg",
+    "static/media/plus.8e09c9b4.svg": "/static/media/plus.8e09c9b4.svg",
     "static/media/ready to eat.77b114c2.svg": "/static/media/ready to eat.77b114c2.svg",
     "static/media/shopandroid.6c7b71f5.svg": "/static/media/shopandroid.6c7b71f5.svg",
     "static/media/shopiphone.c24a2f89.svg": "/static/media/shopiphone.c24a2f89.svg",
@@ -52,7 +54,7 @@
   "entrypoints": [
     "static/js/runtime-main.9f7b5252.js",
     "static/js/2.f8a2fcb7.chunk.js",
-    "static/css/main.85ba0c12.chunk.css",
-    "static/js/main.2d429c62.chunk.js"
+    "static/css/main.4623d8b7.chunk.css",
+    "static/js/main.fde9026c.chunk.js"
   ]
 }
