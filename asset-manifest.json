@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4623d8b7.chunk.css",
-    "main.js": "/static/js/main.fde9026c.chunk.js",
-    "main.js.map": "/static/js/main.fde9026c.chunk.js.map",
+    "main.js": "/static/js/main.a77e521a.chunk.js",
+    "main.js.map": "/static/js/main.a77e521a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9f7b5252.js",
     "runtime-main.js.map": "/static/js/runtime-main.9f7b5252.js.map",
     "static/js/2.f8a2fcb7.chunk.js": "/static/js/2.f8a2fcb7.chunk.js",
@@ -14,10 +14,9 @@
     "static/js/2.f8a2fcb7.chunk.js.LICENSE.txt": "/static/js/2.f8a2fcb7.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/Background-pattern.e8a7b99d.svg",
     "static/media/index.css": "/static/media/Pusia-DemiBold.d10df2d0.ttf",
-    "static/media/Left illustration 1.94eb7133.svg": "/static/media/Left illustration 1.94eb7133.svg",
-    "static/media/Left illustration 2.7375085f.svg": "/static/media/Left illustration 2.7375085f.svg",
     "static/media/android.b5911d9b.svg": "/static/media/android.b5911d9b.svg",
     "static/media/appstore.2c57dab7.svg": "/static/media/appstore.2c57dab7.svg",
+    "static/media/bag.38262a1f.svg": "/static/media/bag.38262a1f.svg",
     "static/media/baked goods.2f0a2f72.svg": "/static/media/baked goods.2f0a2f72.svg",
     "static/media/beverages.dcc1675b.svg": "/static/media/beverages.dcc1675b.svg",
     "static/media/cancel.04bbe546.svg": "/static/media/cancel.04bbe546.svg",
@@ -37,6 +36,7 @@
     "static/media/jeetar.ac733dba.svg": "/static/media/jeetar.ac733dba.svg",
     "static/media/jeetarfooter.b787c183.svg": "/static/media/jeetarfooter.b787c183.svg",
     "static/media/jeetaryellow.871791ac.svg": "/static/media/jeetaryellow.871791ac.svg",
+    "static/media/man.d2d4a197.svg": "/static/media/man.d2d4a197.svg",
     "static/media/new product.df47f961.svg": "/static/media/new product.df47f961.svg",
     "static/media/personal care.904400cc.svg": "/static/media/personal care.904400cc.svg",
     "static/media/phone.49e2b7b8.png": "/static/media/phone.49e2b7b8.png",
@@ -55,6 +55,6 @@
     "static/js/runtime-main.9f7b5252.js",
     "static/js/2.f8a2fcb7.chunk.js",
     "static/css/main.4623d8b7.chunk.css",
-    "static/js/main.fde9026c.chunk.js"
+    "static/js/main.a77e521a.chunk.js"
   ]
 }
