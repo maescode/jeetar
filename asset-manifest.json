@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.582ac1f8.chunk.css",
-    "main.js": "/static/js/main.53fa940f.chunk.js",
-    "main.js.map": "/static/js/main.53fa940f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5783bc88.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5783bc88.js.map",
+    "main.css": "/static/css/main.eda1bef0.chunk.css",
+    "main.js": "/static/js/main.753494f3.chunk.js",
+    "main.js.map": "/static/js/main.753494f3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1167d198.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1167d198.js.map",
     "static/css/2.818011ed.chunk.css": "/static/css/2.818011ed.chunk.css",
-    "static/js/2.e5756d1f.chunk.js": "/static/js/2.e5756d1f.chunk.js",
-    "static/js/2.e5756d1f.chunk.js.map": "/static/js/2.e5756d1f.chunk.js.map",
-    "static/js/3.955bc8dd.chunk.js": "/static/js/3.955bc8dd.chunk.js",
-    "static/js/3.955bc8dd.chunk.js.map": "/static/js/3.955bc8dd.chunk.js.map",
+    "static/js/2.179b9b46.chunk.js": "/static/js/2.179b9b46.chunk.js",
+    "static/js/2.179b9b46.chunk.js.map": "/static/js/2.179b9b46.chunk.js.map",
+    "static/js/3.cc701ee7.chunk.js": "/static/js/3.cc701ee7.chunk.js",
+    "static/js/3.cc701ee7.chunk.js.map": "/static/js/3.cc701ee7.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.818011ed.chunk.css.map": "/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.582ac1f8.chunk.css.map": "/static/css/main.582ac1f8.chunk.css.map",
-    "static/js/2.e5756d1f.chunk.js.LICENSE.txt": "/static/js/2.e5756d1f.chunk.js.LICENSE.txt",
+    "static/css/main.eda1bef0.chunk.css.map": "/static/css/main.eda1bef0.chunk.css.map",
+    "static/js/2.179b9b46.chunk.js.LICENSE.txt": "/static/js/2.179b9b46.chunk.js.LICENSE.txt",
     "static/media/Hero.css": "/static/media/Background-pattern.e8a7b99d.svg",
     "static/media/index.css": "/static/media/Pusia-DemiBold.d10df2d0.ttf",
     "static/media/Location.d320e537.svg": "/static/media/Location.d320e537.svg",
@@ -24,6 +24,7 @@
     "static/media/baked goods.2f0a2f72.svg": "/static/media/baked goods.2f0a2f72.svg",
     "static/media/beverages.dcc1675b.svg": "/static/media/beverages.dcc1675b.svg",
     "static/media/cancel.04bbe546.svg": "/static/media/cancel.04bbe546.svg",
+    "static/media/carousel__image.63139a11.svg": "/static/media/carousel__image.63139a11.svg",
     "static/media/continueRule.3cbb47ab.svg": "/static/media/continueRule.3cbb47ab.svg",
     "static/media/dairy and dell.3e87e57b.svg": "/static/media/dairy and dell.3e87e57b.svg",
     "static/media/facebook.af040869.svg": "/static/media/facebook.af040869.svg",
@@ -47,6 +48,7 @@
     "static/media/new product.df47f961.svg": "/static/media/new product.df47f961.svg",
     "static/media/personal care.904400cc.svg": "/static/media/personal care.904400cc.svg",
     "static/media/phone.49e2b7b8.png": "/static/media/phone.49e2b7b8.png",
+    "static/media/phone2.6498f149.svg": "/static/media/phone2.6498f149.svg",
     "static/media/place.afa52fcb.svg": "/static/media/place.afa52fcb.svg",
     "static/media/plus.8e09c9b4.svg": "/static/media/plus.8e09c9b4.svg",
     "static/media/ready to eat.77b114c2.svg": "/static/media/ready to eat.77b114c2.svg",
@@ -61,10 +63,10 @@
     "static/media/youtube.b833273e.svg": "/static/media/youtube.b833273e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5783bc88.js",
+    "static/js/runtime-main.1167d198.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.e5756d1f.chunk.js",
-    "static/css/main.582ac1f8.chunk.css",
-    "static/js/main.53fa940f.chunk.js"
+    "static/js/2.179b9b46.chunk.js",
+    "static/css/main.eda1bef0.chunk.css",
+    "static/js/main.753494f3.chunk.js"
   ]
 }
